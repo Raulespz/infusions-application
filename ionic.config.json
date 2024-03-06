@@ -1,0 +1,7 @@
+{
+  "name": "infusions-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
